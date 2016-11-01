@@ -1,0 +1,9 @@
+<settings>
+  <servers>
+    <server>
+      <id>myServerId</id>
+      <username>username</username>
+      <privateKey>c:\aws\aws_frankfurt.pem</privateKey>
+    </server>
+  </servers>
+</settings>

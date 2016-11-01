@@ -1,0 +1,12 @@
+[Unit]
+Description=web
+After=syslog.target
+
+[Service]
+User=root
+ExecStart=/usr/bin/java -jar web.jar
+WorkingDirectory=/opt/web
+SuccessExitStatus=143
+
+[Install]
+WantedBy=multi-user.target
