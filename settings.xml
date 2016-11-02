@@ -1,9 +1,0 @@
-<settings>
-  <servers>
-    <server>
-      <id>myServerId</id>
-      <username>ubuntu</username>
-      <privateKey>key.pem</privateKey>
-    </server>
-  </servers>
-</settings>
